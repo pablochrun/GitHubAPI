@@ -28,6 +28,7 @@
         android:layout_below="@id/input_username"
         android:text="@string/login"
         android:onClick="getUser"
+        style="@android:style/TextAppearance"
         />
 
 </RelativeLayout>
